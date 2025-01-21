@@ -1,1 +1,2 @@
 # CryptoClustering
+This challenge consisted of unsupervised machine learning. Creating, fitting, predicting models helped with all of our different methods in establishing relationships through clusters within the given data. Before use we scaled our data to ensure it fit to scale. We then used KMean to determine the optimal k or amount of clusters. The concluding clusters were used to establish patterns and relationships from the original data.
